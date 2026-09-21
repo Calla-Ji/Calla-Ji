@@ -1,25 +1,25 @@
-<h1 align="left">Hi 👋, I'm stellaachenbach aka Calla-Ji</h1>
-<h3 align="left">An advocate for decentralized & open-source technology</h3>
+<h1 align="left">Hi 👋, I'm stellaachenbach</h1>
+<h3 align="left">Design Alchemist — Tools · Worlds · Systems</h3>
 
-- 🔭 I’m currently working on [The ALANA Project](https://paragraph.com/@the-alana-project) & [Unlock Protocol](https://unlock-protocol.com/).
+- 🔭 I’m currently working on [The ALANA Project](https://paragraph.com/@the-alana-project).
 
-- 🌱 I’m currently learning **UE5 and vibe-coding**.
+- 🌱 I’m learning **UE5 and vibe-coding**.
 
 - 👯 I’m looking to collaborate on **open-source & decentralized projects**.
 
 - 🤝 I’m looking for help with everything that relates to what I am already doing.
 
-- 👨‍💻 My new website is in the making, for now review my [beacons page](https://beacons.ai/stellaachenbach) or [blog](https://paragraph.com/@stellaachenbach).
+- 👨‍💻 My new website is finally launched: [stellaachenbach.com](https://stellaachenbach.com).
 
-- 📝 I regularly write articles on [https://paragraph.com/@stellaachenbach](https://paragraph.com/@stellaachenbach).
+- 📝 I regularly write articles on my [blog](https://stellaachenbach.com/blog).
 
-- 💬 Ask me about **3D development work, product building, front-end development**.
+- 💬 Ask me about **3D development work, product building, front-end development, and vibe-coding**.
 
-- 🙈 Don't ask me about coding or programming. While I know a bit I am not passionate about line-coding.
+- 🙈 Don't ask me about coding or programming. While I know a bit, I am not passionate about line-coding.
 
 - 📫 How to reach me **contact[@]stellaachenbach.com**.
 
-- 📄 Know about my experiences by checking out my [LinkedIn](https://www.linkedin.com/in/stella-achenbach/).
+- 📄 Learn about my experience by checking out my [LinkedIn](https://www.linkedin.com/in/stella-achenbach/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
