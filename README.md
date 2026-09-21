@@ -9,7 +9,7 @@
 
 - I’m looking for help with everything that relates to what I am already doing.
 
-- My new website is finally launched: [stellaachenbach.com](https://stellaachenbach.com).
+- My new website is finally launched: [stellaachenbach.com](stellaachenbach-website.netlify.app).
 
 - I regularly write articles on my [blog](https://stellaachenbach.com/blog).
 
